@@ -1,0 +1,1 @@
+A project to allow easier collaboration on the web-scraping & automation routines to make playing travian a more programmer friendly game!
